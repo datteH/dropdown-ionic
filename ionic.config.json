@@ -1,0 +1,7 @@
+{
+  "name": "dropd",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
